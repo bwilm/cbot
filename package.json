@@ -1,0 +1,19 @@
+{
+  "name": "cbot",
+  "version": "1.0.0",
+  "description": "chat bot using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwilm/cbot.git"
+  },
+  "author": "bwilmott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwilm/cbot/issues"
+  },
+  "homepage": "https://github.com/bwilm/cbot#readme"
+}
