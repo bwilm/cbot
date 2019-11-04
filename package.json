@@ -4,7 +4,8 @@
   "description": "chat bot using node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bwilm/cbot/issues"
   },
-  "homepage": "https://github.com/bwilm/cbot#readme"
+  "homepage": "https://github.com/bwilm/cbot#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
 }
